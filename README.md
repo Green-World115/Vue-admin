@@ -6,14 +6,6 @@ Vue Admin Template is a Vue.js Based Admin Template. This template uses the vuet
 
 Build and deploy automized with github Actions & github Pages
 
-## Demo
-[Live Demo](https://fatihunlu.github.io/vue-admin-template)
-
-## Preview
-
-![Preview](https://github.com/fatihunlu/vue-admin-template/blob/master/static/template.gif)
-
-
 ### Reference
 
 * [Vue.js](https://vuejs.org/)
@@ -43,8 +35,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - Star my GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 
-## License
-
-[MIT](https://github.com/fatihunlu/vue-admin-template/blob/master/LICENSE) license. 
-
-Copyright (c) 2018-present fatihunlu
